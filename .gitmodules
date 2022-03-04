@@ -1,0 +1,3 @@
+[submodule "Jenkins-teach"]
+	path = Jenkins-teach
+	url = git@github.com:ShoneKey/Jenkins-teach.git
